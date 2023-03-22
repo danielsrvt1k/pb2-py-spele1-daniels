@@ -1,7 +1,6 @@
 # ASCII art Spēle "Karātavas"
 Šajā kodā ir izveidota spēle "Karātavas", kur spēlētājam jāmin nejauši izvēlēts vārds no vārdu saraksta. Spēlētājam ir pieejamas 5 dzīvības, lai uzminētu vārdu, un spēle beidzas, ja spēlētājs uzmin vārdu vai izmanto visas dzīvības.
 
-ASCII art tiek izmantots, lai parādītu spēles stāvokli, piemēram, parādot zaudējumu stāvokli, ja spēlētājs ir izmantojis visas dzīvības. Neuzminētie burti tiek parādīti ar apakšsvītrām, un spēlētājam tiek lūgts ievadīt burtu, lai mēģinātu uzminēt vārdu vēlreiz.
 
 Vispirms kodā ir definēti iespējamie vārdi saraksts un pēc nejaušības principa tiek izvēlēts viens no iespējamajiem vārdiem. Tad vārds tiek pārveidots uz lielajiem burtiem, jeb CAPS un tiek izveidots tukšs saraksts, lai saglabātu spēlētāja minētos burtus. Tiek arī definēts mēģinājumu / dzīvību skaits: 5 dzīvības.
 
