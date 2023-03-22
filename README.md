@@ -8,4 +8,6 @@ Spēlētājam tiek lūgts ievadīt burtu, un pēc tam tiek pārbaudīts, vai bur
 
 Spēle beidzas, ja spēlētājs ir uzminējis vārdu, un visi burti ir uzminēti, vai arī tad kad spēlētājs ir izmantojis visas savas dzīvības. ASCII art tiek izmantots, lai parādītu zaudējuma stāvokli, ja spēlētājs ir izmantojis visas dzīvības, kā arī kalpo kā grafiskais dizains šai spēlei.
 
-Manuprāt kods ir labs piemērs spēļu izveidei ar "PARASTO Python", izmantojot ASCII art. Veidoja Daniēls Junkurēns
+Manuprāt kods ir labs piemērs spēļu izveidei ar "PARASTO Python", izmantojot ASCII art. 
+
+Veidoja: Daniēls Junkurēns
